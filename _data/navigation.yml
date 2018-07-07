@@ -1,12 +1,16 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "首页"
+    url: /
+  - title: "推荐文章"
+    url: /recommended-article/
+  - title: "微服务架构"
+    url: /micro-service/
+  - title: "领域驱动设计"
+    url: /domain-driven-design/
+#  - title: "设计模式"
+#    url: /design-pattern/
+  - title: "留言板"
+    url: /guest-book/
+  - title: "关于我"
+    url: /about-me/
